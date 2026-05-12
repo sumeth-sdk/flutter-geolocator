@@ -1,6 +1,6 @@
 name: geolocator_platform_interface
 description: A common platform interface for the geolocator plugin.
-repository: https://github.com/baseflow/flutter-geolocator/tree/main/geolocator_platform_interface
+repository: https://github.com/sumeth-sdk/flutter-geolocator/tree/latest/geolocator_platform_interface
 # NOTE: We strongly prefer non-breaking changes, even at the expense of a
 # less-clean API. See https://flutter.dev/go/platform-interface-breaking-changes
 version: 4.2.6

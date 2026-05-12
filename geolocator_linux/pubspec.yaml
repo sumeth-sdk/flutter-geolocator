@@ -1,7 +1,7 @@
 name: geolocator_linux
 description: Geolocation Linux plugin for Flutter. This plugin provides the
   Linux implementation for the geolocator.
-repository: https://github.com/baseflow/flutter-geolocator/tree/main/geolocator_linux
+repository: https://github.com/sumeth-sdk/flutter-geolocator/tree/latest/geolocator_linux
 issue_tracker: https://github.com/baseflow/flutter-geolocator/issues?q=is%3Aissue+is%3Aopen
 version: 0.2.4
 
@@ -21,7 +21,8 @@ dependencies:
   flutter:
     sdk: flutter
   geoclue: ^0.1.1
-  geolocator_platform_interface: ^4.2.6
+  geolocator_platform_interface: 
+    path: ../geolocator_platform_interface
   gsettings: ^0.2.8
   package_info_plus: ^10.1.0
 
